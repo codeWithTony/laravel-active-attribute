@@ -9,7 +9,7 @@ This can also server as a good example of how to do similar things to use Scopes
 ## Install
 
 ```
-composer install cdodewithtony/laravel-active-attribute
+composer require codewithtony/laravel-active-attribute
 ```
 
 ## Usage
