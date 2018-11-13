@@ -19,7 +19,5 @@
     "psr-4": {
       "CodeWithTony\\": "./src"
     }
-  },
-  "minimum-stability": "dev",
-  "prefer-stable": true
+  }
 }
