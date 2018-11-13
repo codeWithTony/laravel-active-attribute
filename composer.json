@@ -1,0 +1,25 @@
+{
+  "name": "codewithtony/laravel-active-attribute",
+  "type": "laravel",
+  "description": "Laravel Active Attribute",
+  "keywords": [
+    "laravel", "active"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tony Rouse",
+      "email": "tony@codewithtony.com"
+    }
+  ],
+  "require": {
+    "laravel/laravel": ">=5.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "CodeWithTony\\": "./src"
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
