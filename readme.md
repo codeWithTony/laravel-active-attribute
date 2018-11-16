@@ -4,7 +4,7 @@ Laravel Active Attribute adds `withInactive` and `onlyInactive` functionality to
 
 This can be used to automatically hide inactive records unless otherwise desired. A better solution might be the use [Soft Deletes](https://laravel.com/docs/5.5/eloquent#soft-deleting) but there are a number of reasons why you might want to use an active field.
 
-This can also server as a good example of how to do similar things to use Scopes and Macros in Laravel to manipulate queries at a higher level.
+This can also serve as a good example of how to do similar things to use Scopes and Macros in Laravel to manipulate queries at a higher level.
 
 ## Install
 
